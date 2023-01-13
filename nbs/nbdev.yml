@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "image_analysis"
+  site-url: "https://apingali.github.io/image_analysis"
+  description: "Analyzing and Exploring Image Data"
+  repo-branch: main
+  repo-url: "https://github.com/apingali/image_analysis"
